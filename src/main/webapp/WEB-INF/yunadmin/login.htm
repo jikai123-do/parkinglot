@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>首页后台登录</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <link rel="stylesheet" href="../static/admin/layui/css/layui.css" media="all">
+  <link rel="stylesheet" href="../static/admin/style/admin.css" media="all">
+  <link rel="stylesheet" href="../static/admin/style/login.css" media="all">
+  <!--必要样式-->
+  <link href="../static/js/jQueryLogin/css/styles.css" rel="stylesheet" type="text/css" />
+  <link href="../static/js/jQueryLogin/css/demo.css" rel="stylesheet" type="text/css" />
+  <link href="../static/js/jQueryLogin/css/loaders.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+  	/*修改Input中placeholder字的颜色*/
+  input::-webkit-input-placeholder{
+      color:#fff;
+      font-size: 12px;
+  }
+  input::-moz-placeholder{   /* Mozilla Firefox 19+ */
+      color:#fff;
+      font-size: 12px;
+  }
+  input:-moz-placeholder{    /* Mozilla Firefox 4 to 18 */
+      color:#fff;
+      font-size: 12px;
+  }
+  input:-ms-input-placeholder{  /* Internet Explorer 10-11 */ 
+      color:#fff;
+      font-size: 12px;
+  }
+  body .login_fields__submit{margin: 20px 0 0 125px;}
+  .login_forget,p{font-size: 14px !important;}
+  .login_forget a{color:#fff !important;}
+  .login_forget{position: absolute;right: 0;bottom: 0;}
+  body .login_title{height:45px;font-size: 26px;text-align: center;letter-spacing: 2px;}
+  .login_fields__user{margin-top: 10px;border: 1px solid #099;border-radius: ;}
+  .login_fields__password{margin-top:28px;border: 1px solid #099;}
+  .login_fields__authcode{margin-top:28px;border: 1px solid #099;position: relative;}
+  .login_fields__user img,.login_fields__password img, .login_fields__authcode img.m-icon{width: 26px; height: 26px;}
+  input:-webkit-autofill , textarea:-webkit-autofill, select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #393d52 inset !important; 
+    border: 1px solid #393d52!important;
+    color: #fff !important;
+  }
+  .lk-login-title{display:inline-block; float:left; width: 80px;text-align: right;}
+  .lk-login-content{display:inline-block; float: left; width: 360px;}
+  .lk-login-ul li{min-height: 50px; line-height: 50px;overflow: hidden;}
+  .lk-login-we{margin-top: 20px;margin-left: 70px;}
+  .disclaimer{width: 90% !important;}
+  .login_fields{width: 70%;margin-left:14%;}
+  #authcodeimg{cursor: pointer;}
+  </style>
+</head>
+<body>
+   
+  <div class="login">
+     
+      
+    
+    <div class='login_title'>
+      <span>管理员登录</span>
+    </div>
+    <div class='login_fields'>
+      <div class='login_fields__user' id="searchtip">
+        <div class='icon'>
+          <img alt="" src='../static/js/jQueryLogin/img/user_icon_copy.png'>
+        </div>
+        <input  id="username" name="username" placeholder='账号'  type='text' />
+          <div class='validation'>
+            <img alt="" src='http://www.shmrmjsj.com/admin/img/tick.png'>
+          </div>
+      </div>
+      <div class='login_fields__password' id="searchtip">
+        <div class='icon'>
+          <img alt="" src='../static/js/jQueryLogin/img/lock_icon_copy.png'>
+        </div>
+        <input placeholder='密码' id="password" name="password" type="password" autocomplete="off" type='text'>
+        <div class='validation'>
+          <img alt="" src='http://www.shmrmjsj.com/admin/img/tick.png'>
+        </div>
+      </div>
+      <div class='login_fields__authcode' id="searchtip">
+        <div class='icon'>
+          <img style="width:22px;height: 22px;" class="m-icon" alt="" src='../static/js/jQueryLogin/img/logo.png'>
+        </div>
+        <input  id="authcode" name="authcode" maxlength="4" placeholder='图形验证码'  type='text' style="width:130px;" />
+        <img onclick="getAuthcode()" id="authcodeimg" src="../authcode.png" alt="点击切换验证码" title="点击切换验证码" />
+          <div class='validation'>
+            <img alt="" src='http://www.shmrmjsj.com/admin/img/tick.png'>
+          </div>
+      </div>
+
+      <div class='login_fields__submit'>
+        <input id="login" type='button' value='登录'>
+      </div>
+    </div>
+    <div class='success'>
+    </div>
+    <div class='disclaimer'>
+      <p>欢迎登录后台管理系统</p>
+                <span class="login_forget"><a href="../admin/repass.htm">忘记密码？</a></span>
+            </div>
+    
+  </div>
+  <div class='authent'>
+    <div class="loader" style="height: 44px;width: 44px;margin-left: 28px;">
+        <div class="loader-inner ball-clip-rotate-multiple">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        </div>
+        <p>认证中...</p>
+    
+      <div class='login_fields__password' style="display: none;">
+        <div class='icon'>
+          <img alt="" src='../static/js/jQueryLogin/img/key.png'>
+        </div>
+        <div class='validation' style="opacity: 1; right: -5px;top: -3px;">
+          <canvas class="J_codeimg" id="myCanvas" onclick="Code();">对不起，您的浏览器不支持canvas，请下载最新版浏览器!</canvas>
+        </div>
+      </div>
+  </div>
+  <div class="OverWindows"></div>
+
+  <script src="http://www.shmrmjsj.com/layuiadmin/layui/layui.js"></script> 
+  <script type="text/javascript">var WEB_ROOT = 'http://www.shmrmjsj.com';</script>
+  <script type="text/javascript" src="../static/js/jquery.min.js"></script>
+  <script src="../static/js/library/layer/latest/layer.js" type="text/javascript"></script>
+  <script src="../static/js/jQueryLogin/js/Particleground.js" type="text/javascript"></script>
+  <script src="../static/js/jQueryLogin/js/Treatment.js" type="text/javascript"></script>
+  <script src="../static/js/jQueryLogin/js/jquery.mockjax.js" type="text/javascript"></script>
+  <script src="../static/js/rsa.js"></script>
+  <script type="text/javascript">
+    var canGetCookie = 0;//是否支持存储Cookie 0 不支持 1 支持
+    var ajaxmockjax = 1;//是否启用虚拟Ajax的请求响 0 不启用  1 启用
+    //默认账号密码
+    
+    var truelogin = "kbcxy";
+    var truepwd = "mcwjs";
+    
+    var CodeVal = 0;
+    var pagetoken = "467fa9436c2d975ba6ee82a54ea0821d"; 
+    Code();
+    function Code() {
+      if(canGetCookie == 1){
+        createCode("AdminCode");
+        var AdminCode = getCookieValue("AdminCode");
+        showCheck(AdminCode);
+      }else{
+        showCheck(createCode(""));
+      }
+    }
+    function showCheck(a) {
+      CodeVal = a;
+      var c = document.getElementById("myCanvas");
+      var ctx = c.getContext("2d");
+      ctx.clearRect(0, 0, 1000, 1000);
+      ctx.font = "80px 'Hiragino Sans GB'";
+      ctx.fillStyle = "#E8DFE8";
+      ctx.fillText(a, 0, 100);
+    }
+    $(document).keypress(function (e) {
+      // 回车键事件  
+      if (e.which == 13) {
+        $('input[type="button"]').click();
+      }
+    });
+    //粒子背景特效
+    $('body').particleground({
+      dotColor: '#fff',
+      lineColor: '#099'
+    });
+    $('input[name="pwd"]').focus(function () {
+      $(this).attr('type', 'password');
+    });
+    $('input[type="text"]').focus(function () {
+      $(this).prev().animate({ 'opacity': '1' }, 200);
+    });
+    $('input[type="text"],input[type="password"]').blur(function () {
+      $(this).prev().animate({ 'opacity': '.5' }, 200);
+    });
+    $('input[name="login"],input[name="pwd"]').keyup(function () {
+      var Len = $(this).val().length;
+      if (!$(this).val() == '' && Len >= 5) {
+        $(this).next().animate({
+          'opacity': '1',
+          'right': '30'
+        }, 200);
+      } else {
+        $(this).next().animate({
+          'opacity': '0',
+          'right': '20'
+        }, 200);
+      }
+    });
+    var fullscreen = function () {
+      elem = document.body;
+      if (elem.webkitRequestFullScreen) {
+        elem.webkitRequestFullScreen();
+      } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+      } else if (elem.requestFullScreen) {
+        elem.requestFullscreen();
+      } else {
+        //浏览器不支持全屏API或已被禁用  
+      }
+    }  
+    
+    /***登陆验证 start***/
+    $.fn.extend({  
+     input_tag:function(id,bind_type,msg_id,msg){
+      $('#'+id).bind(bind_type, function() {
+      var cacct = $('#'+id).val();
+      if(cacct!='')
+      {
+        $('#'+msg_id).html('');
+      }
+      else
+      {
+        $('#'+msg_id).html(msg);
+      }
+    });
+   },
+    blockui:function(msg){
+      $.blockUI({
+        message:msg,
+        css: {
+          border: 'none',
+          padding: '15px',
+          backgroundColor: '#ea4120',
+          width:"400px",
+          height:"40px",
+          font:"400 24px/45px Microsoft YaHei",
+          opacity: .5,
+          color: '#fff'
+        }
+       });
+       setTimeout($.unblockUI, 1000);
+      }
+    });
+
+    $(document).ready(function() {
+      $.fn.input_tag('username','keyup','ddduser','账号：');
+      $.fn.input_tag('password','keyup','dddcipher','密码：');
+      $(".ddd,.login_form_ddd,.contact_you_input,.contact_you_ddd").click(function(){
+        $(this).parent("div").prev('input').focus();
+      });
+      /**登录**/
+      $('#login').click(function(){
+        admin_login();
+      });
+      $("#verifycode").keyup(function(){
+        var verifycode = $("#verifycode").val();
+        
+        if(verifycode.length==4)
+        {
+         $.post("/admin/login.php?action=verifycode",
+        { 
+          verifycode: verifycode
+        }
+        , function(data){
+          if(data['ret_code'])
+          {
+            $(".is_right").css("display","block").attr("src","/static/img/new_login/true.png");
+          }
+          else
+          {
+            $(".is_right").css("display","block").attr("src","/static/img/new_login/close.png");
+          }
+        },'json');
+        }else{
+          $(".is_right").css("display","none");
+        }
+      });
+    });
+
+    //绑定键盘点击事件
+    $(document).keypress(function(e) {
+      // 回车键事件  
+      if(e.which == 13) {  
+        admin_login();
+      }  
+    }); 
+
+    function admin_login(){
+      var user = $("#username").val();
+      var cipher = $("#password").val();
+      var authcode = $("#authcode").val();
+      if(user==""){
+        layer.msg("<span style='color:red;'>请输入账号</span>");
+        $("#user").focus();
+        return false;
+      }
+      if(cipher==""){
+        layer.msg("<span style='color:red;'>请输入密码</span>");
+        $("#cipher").focus();
+        return false;
+      }
+      if(authcode=="" || authcode.length != 4) {
+        layer.msg("<span style='color:red;'>请输入4位字符验证码</span>");
+        $("#authcode").focus();
+        return false;
+      }
+
+        var rsa = new RSAKey();
+        var modulus = "DB1EA572B55F5D9C8ADF092F5DCC3559CFEA8CE8BB54E3A71DA9B1AFBD7D17CF80ADB224FE4EA5379BC782F41C137748D8F1B5A36AD62A127EF5E87EFB25C209A66BCEE9925CE09631BF2271E81123E93438646625080FF04F4F2CF532B077E3E390486DF40E7586F0AE522C873F33170222F46BDB6084F55DE6B7031E55DBE7";
+        var exponent = "10001";
+        rsa.setPublic(modulus, exponent);
+        user = rsa.encrypt(user);
+        cipher = rsa.encrypt(cipher);
+
+      $.ajaxSettings.async = false; //改为同步
+
+      $.post("/admin/login.php",
+      { 
+        username: user, 
+        password: cipher,
+        authcode: authcode,
+        pagetoken: pagetoken
+      }
+      , function(data){
+      	if(data['ret_code']==-1){
+      	    layer.msg("<span style='color:red;'>" + data['ret_msg'] + "</span>");
+      		$("#authcodeimg").attr('src', '/authcode.php?r='+Math.random());
+      	}else if(data['ret_code']==-100){
+            layer.msg("<span style='color:red;'>" + data['ret_msg'] + "</span>");
+            window.location.href = data['ret_url'];
+        } else if(data['ret_code'] == 1) {
+            window.location.href = data['ret_url'];
+        } else {
+            $("#authcodeimg").attr('src', '/authcode.php?r='+Math.random());
+            layer.msg("<span style='color:red;'>" + data['ret_msg'] + "</span>");
+        }
+      },'json');
+
+      $.ajaxSettings.async = true;  //完成后再改成异步
+    }
+
+    //验证码
+    function getAuthcode() {
+        $('#authcodeimg').attr('src', '/authcode.php?r='+Math.random());
+    }
+
+    //验证码
+    function getCaptcha(id) {
+      var x = typeof(id)=='codeImg' ? jQuery('#'+id) : jQuery(id);
+      x.attr('src', WEB_ROOT+'/captcha.php?'+Math.random());
+      $(".is_right").css("display","none");
+        
+    };
+    /***登陆验证 end***/
+  </script>
+  <script>
+  layui.config({
+    base: '../../layuiadmin/' //静态资源所在路径
+  }).extend({
+    index: 'lib/index' //主入口模块
+  }).use(['index', 'user'], function(){
+    
+  });
+  </script>
+</body>
+</html>

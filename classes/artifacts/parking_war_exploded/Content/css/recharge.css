@@ -1,0 +1,86 @@
+﻿@charset "utf-8";
+
+
+.recharge{width:100%; height:auto; margin:50px 0 50px 0}
+.recharge ul li{width:100%; height:40px; line-height:40px; font-size:16px; text-align:center; margin-top:10px}
+.recharge ul li input{width:50%; background:none; border:1px solid #ccc; height:36px; line-height:36px; color:#333; font-size:18px; text-indent:6px}
+.recharge ul li select{width:50%; height:36px;border:1px solid #ccc; font-size:16px; line-height:36px; margin-left:5px}
+.recharge ul li span{color:#fff}
+.recharge ul li font{text-align:right; color:#666}
+.recharge ul li font b{color:#fff}
+.recharge ul p{font-size:16px; height:40px; line-height:40px}
+.recharge ul p span{margin:0 20px 0 5px}
+.recharge p{width:100%; height:36px;}
+.recharge p a{ font-weight:bold;display:block; width:90px; height:30px;border:1px solid #03a9f5; border-radius:4px; color:#666; text-align:center; line-height:30px; float:left; margin:0 5px 0 5px}
+.recharge h2{ color:#F30; padding-left:200px; font-size:16px; line-height:50px}
+.recharge ul li input.rh{width:14%; font-size:14px; border:1px solid #efefef;height:38px; background:#e2f3ff; margin:0 0 5px 1%}
+.recharge h2 span{font-size:14px; font-weight:normal; color:#999; margin:0 5px 0 5px}
+.recharge h2 a{margin-left:5px; font-size:14px; color:#03a9f5;}
+.recharge ul li input.rh:hover{background:#03a9f5; color:#fff}
+
+
+.recharge ul#bc li{text-align:left; width:90%; margin-left:10%}
+.cardlin{width:270px; height:180px; position:absolute; right:5px; top:0px; border:1px solid #efefef}
+.cardlin h1{width:100%; height:32px; line-height:32px; color:#fff; background:#03a9f5;font-size:14px; text-align:center; border-bottom:2px solid #03a9f5}
+.cardlin dl{width:100%; height:140px; overflow-y:auto;}
+.cardlin dl dt{widows:96%; margin:2px 2% 0 2%; height:32px; line-height:32px; padding-left:5%; border-bottom:1px dashed #ccc}
+.cardlin dl dt a{margin-left:130px;}
+.cardlin dl dt a:hover{color:#333}
+
+/*投诉建议*/
+    /*form*/
+.formbody {padding: 10px 18px;}
+.formtitle {border-bottom: solid 3px #F99331;line-height: 35px;position: relative; height: 35px; }
+.formtitle span {font-weight: bold; font-size: 16px; float: left;position: absolute;z-index: 100;bottom: -1px; padding: 0 3px;height: 40px;line-height: 40px;color: #03a9f5;}
+
+.tablelist1{width:100%; clear:both; margin-bottom:20px}
+.tablelist1 th{height:50px; line-height:50px; text-align:left}
+.tablelist1 th input{width:200px; height:32px; border:1px solid #d4f1ff; text-indent:6px}
+.tablelist1 td a{display:block; width:100px; height:34px; line-height:34px; color:#03a9f5; float:right; text-align:center;border:1px solid #d4f1ff; background:#f0f0f0 }
+.tablelist1 td a.sc:hover{background:#03a9f5; color:#fff}
+.tablelist1 td{line-height:50px; height:50px; }
+.tablelist1 td textarea{border:1px solid #d4f1ff;text-indent:6px}
+.tablelist1 td select{border:1px solid #d4f1ff;width:300px; height:32px;}
+.tablelist1 td input{width:80px; height:32px; line-height:32px; border:1px solid #d4f1ff; margin-left:70px; color:#03a9f5}
+.tablelist1 td input.questionbt:hover{background:#03a9f5; color:#fff}
+.tablelist1 td p a{display:block; width:100%; height:30px; line-height:30px; background:none; border:none; text-align:left}
+.detailnews h1 {width:100%; height:50px; line-height:50px}
+.detailnews h1 a{display:block; width:100px; height:36px; margin-top:14px; line-height:36px; float:left; font-size:16px; text-align:center; background:#efefef;}
+.detailnews h1 a.current{background:#03a9f5; color:#fff}
+/*修改个人信息*/
+ .recharge2 li {
+        height: 32px;
+        width: 70%;
+        line-height: 32px;
+        margin-top: 20px;
+        padding-left: 30%;
+    position:relative
+
+    }
+
+        .recharge2 li img {
+            float: right;
+            margin-right: 80%;
+        }
+
+        .recharge2 li input {
+            height:28px;
+
+            ;
+            margin-left: 10px;
+            width: 200px;
+        }
+        .recharge2 li input.bc:hover{
+            background:#03a9f5;
+            color:#fff
+    }
+        .recharge2 li input.bc{
+            width:100px;
+            height:32px;
+            margin-left:15.5%;
+            border:none;
+            background:#cef4ff
+    }
+    .upimg{ display:block;width:32px; height:32px; float:right; position:absolute; top:-2px; left:43.5%}
+.upimg img{width:100%; max-height:100%; float:left}
+/*修改个人信息结束*/

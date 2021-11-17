@@ -1,0 +1,1257 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+		<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="utf-8" />
+
+				<title>首页-上海铭瑞模具有限公司</title>
+	<meta name="keywords" content="大型塑胶模具,设计制造,模具开发,开模加工,注塑加工,上海铭瑞,上海铭瑞模具有限公司" />
+	<meta name="description" content="上海铭瑞模具塑胶有限公司成立于2002年，公司将为您提供优质的模具设计，模具制造，注塑加工，塑胶模具加工等一系列服务。目前公司产品涉及通讯器材、汽车配件、家用电器、健身器材、健康科技等行业。为客户服务是我们的天职，我们会将服务进行到底！
+" />
+	<meta http-equiv="Cache-Control" content="no-transform" />
+								<link rel="stylesheet" type="text/css" href="http://v2.qiyuntong.com/ps/model23/Default/1.css" />
+					<link rel="stylesheet" type="text/css"  href="WEB-INF/static/css/animate.css" />
+	<script type="text/javascript" src="WEB-INF/static/js/wow.js"></script>
+	<style type='text/css'>
+		.g-main,.g-hd-inner,.g-ft-inner{ width:1011px;}
+	.g-ft,.g-hd-outer{min-width:1011px;}
+	    		.g-hd-outer{background: url("http://cdn033.yun-img.com/static/upload/a00650y/focus/20170215142908_77982.png") ;}
+			.g-ft{width:100%;position:static;min-height:80px;background: url(http://cdn063.yun-img.com/static/upload/a00667y/focus/20170512144848_56512.png) ;}
+		@font-face {
+	  font-family: 'iconfont';  /* project id 1784547 */
+	  src: url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.eot');
+	  src: url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.eot?#iefix') format('embedded-opentype'),
+	  url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.woff2') format('woff2'),
+	  url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.woff') format('woff'),
+	  url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.ttf') format('truetype'),
+	  url('//at.alicdn.com/t/font_1784547_9e4hdrv88tp.svg#iconfont') format('svg');
+	}
+	.iconfont{
+	  font-family:"iconfont" !important;
+	  font-size:16px;font-style:normal;
+	  -webkit-font-smoothing: antialiased;
+	  -webkit-text-stroke-width: 0.2px;
+	  -moz-osx-font-smoothing: grayscale;
+	}
+	</style>
+					<script type="text/javascript" src="http://v3.qiyuntong.com/pj/all/1.js"></script>
+				<script type="text/javascript">
+		new WOW().init(); //动效启动
+		var WEBQEUESTURL = window.location.href.toLowerCase();
+		if((WEBQEUESTURL.indexOf('%3c')>0 && WEBQEUESTURL.indexOf('%3e')>0) || (WEBQEUESTURL.indexOf('<')>0 && WEBQEUESTURL.indexOf('>')>0)){
+			window.location.href = '/404.html';
+		}
+		var WEB_ROOT = 'http://www.shmrmjsj.com';
+		jQuery(document).ready(function ($) {
+			$("img.lazyload").lazyload({failure_limit:100, effect:"fadeIn", skip_invisible:false, threshold:200});
+		});
+		/* 初始化宽度 */
+		var MainDocumentWidth = '1011';
+		if(MainDocumentWidth!=""){
+			if(MainDocumentWidth>$(window).width()){
+				$('.g-document').width(MainDocumentWidth);
+			}
+		}
+
+			</script>
+	<!--[if lt IE 9]>
+	<script src="/static/js/library/html5shiv/3.7.2/html5shiv.min.js?v=201504071709"></script>
+	<![endif]-->
+
+			
+	<!-- 加载IE6对PNG图片透明的支持 -->
+	<!--[if IE 6]>
+	<script src="/static/js/library/dd_belatedpng/0.0.8/dd_belatedpng.min.js"></script>
+	<![endif]-->
+	
+	<!-- 首部功能插件 end -->
+</head>
+<body>
+
+<!-- 头部插件注入区 -->
+<script type="text/javascript" src="WEB-INF/static/js/library/layer/layer.min.js"></script>
+<div style="position:absolute;top:-10000px;left:-10000px;">
+	<p>
+		<a href="http://www.zy139.com">进口阀门</a>
+	</p>
+	<p>
+		<a href="http://www.xmylok.com">调节阀</a>
+	</p>
+	<p>
+		<a href="http://www.ylok-valve.com">减压阀</a>
+	</p>
+	<p>
+		<a href="http://www.xmfamen.com">电磁阀</a>
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/223.htm">进口蒸汽减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/219.htm">进口氮气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/762.htm">进口氩气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/589.htm">进口氢气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/588.htm">进口氧气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/587.htm">进口高压减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/577.htm">进口二氧化碳减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/576.htm">进口气体减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/575.htm">进口天然气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/552.htm">进口供水减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/222.htm">进口水用减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/215.htm">进口高压气体减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/760.htm">进口天然气防冻减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/751.htm">进口双级减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/750.htm">进口氨气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/748.htm">进口超微压减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/739.htm">进口低温减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/737.htm">进口空气减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/736.htm">进口减温减压装置</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/671.htm">进口油用减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/655.htm">进口卫生级减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/594.htm">进口液氧液氮减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/593.htm">进口小流量减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/592.htm">进口丙烯减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/591.htm">进口液体减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/590.htm">进口实验室仪器减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/551.htm">进口可调式减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/218.htm">进口高灵敏度减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<a href="http://www.zy139.com/cn/products/217.htm">进口不锈钢减压阀</a>
+	</p>
+	<p>
+		<br />
+	</p>
+</div>
+<div style="position:absolute;top:-999px;left:-999px;">
+</div>  <script type="text/javascript" src="WEB-INF/static/js/library/common/common.js"></script>
+
+<!-- 头部 -->
+<div class='g-document'>
+<header class="g-hd">
+<div class='g-hd-outer'>
+<div class="g-hd-inner g-hd-limit" style="height:px;">
+	<!-- 头部980 -->
+		<div class='g-hd-edit'>
+		<!-- 头部自定义模块 -->
+				<!-- 头部自定义模块 end -->
+		<!-- LOGO -->
+				<div class="m-logo"   style="position:relative;top:0px;left:0px;" id="set_logo">
+			<a href="www_shmrmjsj_default.html"><img src="http://cdn057.yun-img.com/static/upload/shmrmjsj/logo/20180306111046_94023.png" alt=""  style="width:447.36364px;height:71.36364px;"></a>
+		</div>
+				<!-- LOGO end -->
+		<div class="m-hd-top">
+		<!--是否显示整体注册条-->
+		<div class="m-head-regist">
+									<a class="u-hd-btn" href="index.html#" id='set_startpage' style="color:#000;">设为首页<!-- 设为首页 --></a>
+									<a class="u-hd-btn" href="index.html#" id='set_favorite' style="color:#000;">收藏本站<!-- 收藏本站 --></a>
+									<a class="u-hd-btn u-trans" href="index.html#" id='set_translation' style="color:#000;">简繁切换<!-- 简繁切换 --></a>
+																		<div class="clearing"></div>
+			</div>
+						<div id="for_search 88">
+												<style type="text/css">
+/*搜索框*/
+.m-search { margin-top: 20px; float: right; border:none;}
+.m-search .u-search-key {background: #fff; color: #999; float: none; font-size: 14px; height: 30px;width:px;  padding:0;}
+.m-search .u-search-btn { color: #fff; font-size: 14px; border: 0 none; height: 34px; overflow: hidden; width: 50px; float: right; cursor: pointer; text-indent: -99999px;margin-left: -2px;}
+
+
+/*默认 颜色*/
+.m-search .u-search-key { border: 2px solid #e8e8e8;  }
+.m-search .u-search-btn {  background: url(/static/img/searchimg/search1/soso_default.jpg) no-repeat center; }
+/*蓝色*/
+.m-search .u-search-key { border: 2px solid #3366ff;  }
+.m-search .u-search-btn {  background: url(/static/img/searchimg/search1/soso_blue.jpg) no-repeat center; }
+</style>
+    <!--搜索框 开始 -->
+    <div id="set_search" class="m-search">
+        <input type="text" class="u-search-key" placeholder="请输入搜索内容">
+        <input type="button" class="u-search-btn" value="搜索"  >
+    </div>
+    <!--搜索框 结束 -->
+<script>
+	$('.u-search-key').keydown(function(){
+        if (event.keyCode == 13) {
+                $('.u-search-btn').click();
+        };            
+            
+    });
+</script>									</div>
+		</div>
+		<div class="clearing"></div>
+		</div>
+		<div class="clearing"></div>
+		
+	<!-- 头部980 end -->
+</div>
+
+<!-- 导航开始 strat -->
+<!-- 浮动fixed -->
+<div class="">
+<div class='m-newnav' id='set_menu'>
+<link href="WEB-INF/static/css/nav/common.css" rel="stylesheet" type="text/css" />
+<style class='m-nav-style'>
+/*颜色*/
+/*黑色*/
+.m-newnav{ background:#000000;}
+.navList li li{background: rgba(51, 51, 51, 0.7);}
+.m-newnav ul li>a { color: #fff; }
+.navList li>a:hover { color: #fff; }
+.m-newnav ul ul li>a {color:#fff;}
+.navList li li>a:hover,.navList li li li>a:hover{ background: #333; color: #fff; }
+.all-sort-list .hover h3 {background-color: rgba(0,0,0,0.6); }
+.item-list .subitem ul li>a:hover{ color:#fff;}
+.all-sort-list .item:hover h3>a  {color: #fff; }
+.m-newnav ul li .m-nav-coustom{background: #333;} 
+/*浮动*/
+.menu_fixed { position: fixed; top: 0px;left:0; width: 100%; z-index: 9999;}
+.menu_fixed .m-newnav{ margin-top:0px;}
+
+.navCont {  height: 40px; text-align: center; }
+#coreNav { display: inline-block; text-align: center; }
+.navCont_s{width:auto !important;}
+
+/*导航样式*/
+.m-newnav{width: expression(document.body.clientWidth <= 1100? "1100px": "auto");  height: 41px;}
+.navList{ position:relative; padding-left:3px;}
+
+.navList li{ position:relative;  padding:0px; z-index:999; float:left; _display:inline; height:40px; font-size:18px; margin:0 20px; }
+.m-newnav ul li a { width: 100%; height: 40px; line-height: 40px; font-size:16px; overflow:hidden;}
+
+.navList li li {width:100% !important;min-width:162px;display:inline-block;white-space:nowrap;width:auto;padding:0px; margin:0px; height:40px;}
+.navList a{ display:inline-block; height:40px; line-height:40px; color:#fff;overflow: hidden;}
+.navList .last,.productNav .navCont .navList .last{ background:none !important;}
+.navList .hoverActive{ position:relative; z-index:100;}
+.navList .hoverActive a{ background:none;}
+.navList li ul{position:relative;}
+.m-newnav ul li ul { width:auto;top: 40px;left: -11px; }
+.m-newnav ul ul li a {width: 100%; height: 40px; line-height: 40px; }
+.m-newnav .navList .select { padding:0px;}
+.navList li.select > ul  { height:auto;  opacity:1; overflow: visible; -webkit-transform: translate(0, 0px); -moz-transform: translate(0, 0px); -ms-transform: translate(0, 0px); -o-transform: translate(0, 0px); transform: translate(0, 0px); pointer-events: auto; }
+.navList li ul  { height:0px; opacity:0; -webkit-transition: all 0.25s ease-out; -moz-transition: all 0.25s ease-out; -o-transition: all 0.25s ease-out; transition: all 0.25s ease-out; -webkit-transform: translate(0, 30px); -moz-transform: translate(0, 30px); -ms-transform: translate(0, 30px); -o-transform: translate(0, 30px); transform: translate(0, 30px); pointer-events: none; }
+
+/*全部产品列表*/
+.navCont .navigator_33_side{position: relative;display: inline-block;width: 120px; text-align: center; color: #fff; line-height: 40px; float: left; font-size: 18px;font-family: "Microsoft yahei"; cursor:pointer;}
+.navCont .navigator_33_side a{ font-size: 16px; color:#fff; text-decoration: none;}
+.navCont .navigator_33_side a:hover{ text-decoration: none; }
+
+/*全部产品*/
+.wrap {position: absolute; display:none;}
+.all-sort-list { position:relative; width:190px;  border-top: none;  background: rgba(0, 0, 0, 0.65); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#99000000", endColorstr="#99000000")\9;}
+.all-sort-list .item { height:30px; }
+.all-sort-list .item.bo { border-top:none; } 
+.all-sort-list .item h3 { width: 160px; height:30px; line-height:30px; font-size:14px; font-weight:normal; overflow: hidden; padding-left: 30px; text-align: left;}
+.all-sort-list .hover h3 { position:relative; z-index:13; }
+.all-sort-list .item a { font-size: 14px; color:#fff; text-decoration:none; }
+.m-newnav ul li .m-nav-coustom{position: absolute;top:40px;display:none;text-align:left;color:white;}
+
+.all-sort-list .item-list {  display:none; position:absolute; min-height:200px; _height:200px;  background:#333; left:190px;  top:3px; z-index:10; }
+
+.item-list .subitem { float:left; width:477px; padding:0px 4px 0px 8px; }
+.item-list .subitem ul { border-top:1px solid #EEE; padding:6px 0px; overflow:hidden; zoom:1; }
+.item-list .subitem .fore { border-top:none; }
+.item-list .subitem ul {  overflow:hidden; }
+.item-list .subitem ul li{ width: 120px; margin-left: 0px;  font-weight:normal; font-size:14px; }
+.item-list .subitem ul li a { color:#fff; text-decoration:none; }
+.item-list .subitem ul li a:hover{ font-weight:normal; text-decoration:none; }
+.m-newnav .m-nav-coustom ul,.m-newnav .m-nav-coustom ul li, .m-newnav .m-nav-coustom ul li a, .m-newnav .m-nav-coustom a{float:none;width:auto;height:auto;z-index:0;margin:0;padding:0;line-height:inherit;visibility:none;}
+.m-newnav .m-nav-coustom ul,.m-newnav .m-nav-coustom ul li{position:static;top:0;left:0;text-align:left;display:inline;}
+
+/*宽度*/
+/*高度*/
+/*一级导航图片背景*/
+/*一级导航颜色背景*/
+/*一级鼠标悬停*/
+/*一级鼠标选中*/
+/*一级字体类型*/
+/*一级字体大小*/
+
+/*一级字体初始状态颜色*/
+/*一级字体初始状态鼠标悬停颜色*/
+/*一级字体初始状态鼠标选中颜色*/
+
+/*一级字体更多设置*/
+/*一级字体菜单间距*/
+.m-newnav ul li{ 
+    margin-right: 0px; 
+}
+
+
+/*二级导航图片背景*/
+/*二级导航颜色背景*/
+/*二级鼠标悬停*/
+/*二级鼠标选中*/
+/*二级字体类型*/
+/*二级字体大小*/
+
+/*二级字体初始状态颜色*/
+/*二级字体初始状态鼠标悬停颜色*/
+/*二级字体初始状态鼠标选中颜色*/
+
+/*二级字体更多设置*/
+/*二级字体菜单高度*/
+.m-newnav ul li ul li{ 
+   height: 50px !important;
+   line-height: 50px !important;
+}
+.m-newnav ul li ul li a{
+   height: 50px !important; 
+   line-height: 50px !important;
+}
+
+</style>
+    <div class="navCont">
+
+        <!-- 全部产品start   -->
+        <div id="" class="navigator_33_side" style="display: none;">
+            <a href="product.jsp">全部产品</a>
+            <div class="wrap">
+        <div class="all-sort-list">
+                        <div class="item">
+                <h3><a href="product_398953.html">模具</a></h3>
+                            </div>
+                        <div class="item">
+                <h3><a href="product_398952.html">塑料产品</a></h3>
+                                <div class="item-list clearfix">
+                    <div class="subitem">
+                        <ul class="fore">
+                                                        <li><a href="product_398952_407106.html">大风</a></li>
+                                                        <li><a href="product_398952_400042.html">荣泰</a></li>
+                                                        <li><a href="product_398952_400044.html">乔山</a></li>
+                                                        <li><a href="product_398952_400041.html">QBD</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+                            </div>
+                    </div>
+    </div>
+
+<script type="text/javascript">
+     //全部产品列表
+     // 二级
+      $(".navCont .navigator_33_side").hover(function() {
+            $(this).find(".wrap").fadeIn();
+        },function() {
+            $(this).find(".wrap").fadeOut();
+    });
+    // 三级
+    $('.all-sort-list > .item').hover(function(){
+            var eq = $('.all-sort-list > .item').index(this),               //获取当前滑过是第几个元素
+                h = $('.all-sort-list').offset().top,                       //获取当前下拉菜单距离窗口多少像素
+                s = $(window).scrollTop(),                                  //获取游览器滚动了多少高度
+                i = $(this).offset().top,                                   //当前元素滑过距离窗口多少像素
+                item = $(this).children('.item-list').height(),             //下拉菜单子类内容容器的高度
+                sort = $('.all-sort-list').height();                        //父类分类列表容器的高度
+            
+            if ( item < sort ){                                             //如果子类的高度小于父类的高度
+                if ( eq == 0 ){
+                    $(this).children('.item-list').css('top', (i-h));
+                } else {
+                    $(this).children('.item-list').css('top', (i-h)+1);
+                }
+            } else {
+                if ( s > h ) {                                              //判断子类的显示位置，如果滚动的高度大于所有分类列表容器的高度
+                    if ( i-s > 0 ){                                         //则 继续判断当前滑过容器的位置 是否有一半超出窗口一半在窗口内显示的Bug,
+                        $(this).children('.item-list').css('top', (s-h)+2 );
+                    } else {
+                        $(this).children('.item-list').css('top', (s-h)-(-(i-s))+2 );
+                    }
+                } else {
+                    $(this).children('.item-list').css('top', 0 );
+                }
+            }   
+
+            $(this).addClass('hover');
+            $(this).children('.item-list').css('display','block');
+        },function(){
+            $(this).removeClass('hover');
+            $(this).children('.item-list').css('display','none');
+        });
+ 
+</script>
+</div>
+<!-- 全部产品end     -->        
+
+    <div class="navCont_s" style="margin:0; width:1180px;">
+        <!-- 主菜单 -->
+        <ul id="coreNav" class="navList">
+            
+             			<li class="active"> 
+            								<a  class="first-a" href="index.html" >网站首页</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="about.jsp" >关于我们</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="product.jsp" >产品展示</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="album_21805.html" >公司风采</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="group.jsp" >业务中心</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="news.html" >新闻资讯</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="job.jsp" >招聘中心</a>
+				                        			            </li>
+					<li class="active"> 
+            								<a  class="first-a" href="contact.jsp" >联系我们</a>
+				                        			            </li>
+		        </ul>                 
+    </div>
+
+
+
+<script type="text/javascript">
+var SYSPAGEURL = window.location.pathname + window.location.search;
+if(SYSPAGEURL=='/index.html' || SYSPAGEURL=='/index.php' || SYSPAGEURL==''){
+    SYSPAGEURL = '/';
+}
+$(document).ready(function(){
+    //获取当前链接
+    var hrefVal ='';
+    var currentUrl = window.location.href;
+    var newUrl = currentUrl.split('/')[3];
+    newUrl = '/'+newUrl;
+
+    //一级菜单
+    $('.navCont .navList').children('li').each(function(){
+      hrefVal = $(this).find('.first-a').attr('href');
+      if(newUrl.indexOf(hrefVal)>=0){
+        $(this).find('.first-a').addClass('nowbgOneSelected');
+        $(this).find('.first-a').addClass('nowcolorOneSelected');
+      }
+    })
+    //二级菜单
+    $('.m-newnav ul li ul li a').each(function(){
+      hrefVal = $(this).attr('href');
+      if(newUrl.indexOf(hrefVal)>=0){
+        $(this).addClass('nowbgTwoSelected');
+        $(this).addClass('nowcolorTwoSelected');
+      }
+    })
+
+    $('.m-newnav').levelmenu();
+    
+    $(".m-newnav .select").removeClass('select');
+    $(".m-newnav a[href='" + SYSPAGEURL + "']").parent().addClass('select');
+});
+
+$.fn.levelmenu = function(){
+    $(this).css('overflow','visible');
+    $(this).css('z-index','999');
+    var overmax = false;
+    var parent = this;
+	  var secWidth = '';
+    $("ul ul", this).css({display: "none"});
+    $("ul li", this).hover(
+        function(){
+            $(this).addClass('select').find('div:first,ul:first').css({visibility: "visible",display: "block"});
+            secWidth = $(this).find('.secNav59-ul').width();
+            $(this).find('ul ul').css('left',secWidth)
+        },function(){
+            $(this).removeClass('select').find('div:first,ul:first').css({visibility: "hidden"});
+            $(".m-nav a[href='" + SYSPAGEURL + "']").parent().addClass('select');
+        }
+    );
+};
+//导航浮动
+$(function(){
+var top_menu = $('.m-newnav');
+var _width = $(window).width();
+top_menu.parent().removeClass('menu_fixed');
+$(window).scroll(function(){
+    var scroH = $(this).scrollTop();
+
+    if(scroH > $(".g-hd-outer").height()){
+        top_menu.parent().addClass('menu_fixed');
+    }           
+    else{
+        top_menu.parent().removeClass('menu_fixed');
+    }
+})  
+}) 
+
+
+</script>   <!-- 头部980 end -->
+</div>
+</div>
+</div>
+<!-- 导航结束 end --></div>
+
+<!-- 头部 end1 -->
+<div class="m-focus" id="set_focus">
+<style type='text/css'>
+	.m-focus, .m-focus .bd li, .m-focus .bd li a{height:399px}
+	.m-focus{width:100%;position:relative;}
+	.m-focus .bd{margin:0 auto;position:relative;z-index:0;overflow:hidden;width: 100%;}
+	.m-focus .bd ul{width:100% !important;}
+	.m-focus .bd li{width:100% !important;overflow:hidden;text-align:center; background-repeat:no-repeat; background-position:center 0;}
+	.m-focus .bd li a{display:block; }
+	.m-focus .hd{width:100%;position:absolute; z-index:1; bottom:0; left:0; height:30px; line-height:30px;}
+	.m-focus .hd ul{text-align:center;}
+	.m-focus .hd ul li{cursor:pointer; display:inline-block; *display:inline; zoom:1; width:42px; height:11px; margin:1px; overflow:hidden; background:#000;filter:alpha(opacity=50);opacity:0.5;  line-height:999px; }
+	.m-focus .hd ul .on{background:#f00;}
+	.m-focus .prev,.m-focus .next{display:block;  position:absolute; z-index:1; top:50%; margin-top:-30px; left:15%;  z-index:1; width:40px; height:60px; background:url(/static/theme/common/img/focus/focus1/slider-arrow.png) -126px -137px #000 no-repeat;  cursor:pointer; filter:alpha(opacity=50);opacity:0.5; display:none;  }
+	.m-focus .next{left:auto; right:15%; background-position:-6px -137px;}
+</style>
+	<div class="bd">
+		<ul>
+						<li _src="url(http://cdn055.yun-img.com/static/upload/shmrmjsj/focus/20180430124853_90569.jpg)">
+						</li>		
+						<li _src="url(http://cdn1.qiyuntong.com/static/upload/a00288/focus/20140930085144_72753.jpg)">
+											<a href="http://www.shmrmjsj.com/index.htm#"  alt="浪漫满屋"></a>
+										</li>		
+					</ul>
+	</div>
+
+	<div class="hd"><ul></ul></div>
+	<span class="prev"></span>
+	<span class="next"></span>
+<script type="text/javascript">
+	var focus_auto = '1';
+	var focus_time = '3000';
+	function RunFocus(){
+		jQuery(".m-focus").hover(function(){ jQuery(this).find(".prev,.next").stop(true,true).fadeTo("show",0.5) },function(){ jQuery(this).find(".prev,.next").fadeOut() });
+
+		jQuery(".m-focus").slide({ titCell:".hd ul", mainCell:".bd ul", effect:"fold", autoPlay:focus_auto,interTime:focus_time,autoPage:true,trigger:"click",
+			startFun:function(i){
+				var curLi = jQuery(".m-focus .bd li").eq(i);
+				if( !!curLi.attr("_src") ){
+					curLi.css("background-image",curLi.attr("_src")).removeAttr("_src");
+				}
+			}
+		});
+	}
+	RunFocus();
+</script>
+</div><!-- 拖拽980 -->
+</header><div class="g-main">
+<script src="WEB-INF/static/js/scrollReveal.js"></script>
+<script>
+	$(function(){
+		window.scrollReveal = new scrollReveal();
+	})
+</script>
+
+<div class="m-wg m-default m-default-default  " id="visualmodule_18" style='width:287.72728px;height:247.72728px;float:left;border-style:solid;border-width:4px;border-color:#3366ff;margin-left:10px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+				<div class="m-theme21">
+			<div class="hd">
+				<ul>
+										<li>1</li>
+										<li>2</li>
+										<li>3</li>
+									</ul>
+			</div>
+			<div class="bd">
+				<ul>
+															<li><a href="javascript:void(0);" style="cursor: default"><img src="http://cdn043.yun-img.com/static/upload/shmrmjsj/visualtoolkit/20180306144438_23670.jpg" /></a></li>
+																				<li><a href="javascript:void(0);" style="cursor: default"><img src="http://cdn035.yun-img.com/static/upload/shmrmjsj/visualtoolkit/20180306144427_30541.jpg" /></a></li>
+																				<li><a href="javascript:void(0);" style="cursor: default"><img src="http://cdn063.yun-img.com/static/upload/shmrmjsj/visualtoolkit/20180306144255_17003.jpg" /></a></li>
+														</ul>
+			</div>
+			<a class="prev" href="javascript:void(0)"></a> <a class="next" href="javascript:void(0)"></a>
+		</div>
+
+		<script type="text/javascript">
+			jQuery("#visualmodule_18 .m-theme21").slide({
+				mainCell : ".bd ul",
+				autoPlay : true
+			});
+		</script>
+			</div>
+		</div> 
+
+<!-- 公司简介模块 -->
+<div class="m-wg m-mod20 m-mod20-blue  " id="visualmodule_28" style='width:345px;height:256px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-hd">
+		<h2>服务项目/</h2>
+			</div>
+			<div class="m-wg-ct">
+		<div class="m-theme11"> 
+			<p style="line-height:3em;">
+	<span microsoft="" yahei";"=""><span style="font-family:Microsoft YaHei;font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp; 上海铭瑞模具有限</span><span style="font-family:Microsoft YaHei;font-size:16px;"><span style="font-family:Microsoft YaHei;">公司将为您提供优质的</span><u><strong><span style="font-family:Microsoft YaHei;">模具设计，模具制造，注塑加工，塑胶模具加工</span></strong></u><span style="font-family:Microsoft YaHei;">等一系列服务。</span></span></span> 
+</p>
+<p style="line-height:3em;">
+	<span microsoft="" yahei";="" font-size:="" 16px;"="" yahei";"=""><span style="font-family:SimSun;font-size:16px;"><span style="font-family:Microsoft YaHei;font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp; 目前公司产品涉及通讯器材</span><span style="font-family:Microsoft YaHei;font-size:16px;"></span><span style="font-family:Microsoft YaHei;font-size:16px;">、汽车配件、</span></span><span style="font-family:Microsoft YaHei;"></span><span style="font-family:Microsoft YaHei;font-size:16px;">家用电器、健身器材、健康科技等行业。</span></span> 
+</p>
+<p style="line-height:3em;">
+	<span microsoft="" yahei";="" font-size:="" 16px;"="" yahei";"="" style="font-family: "><span style="font-family:Microsoft YaHei;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</span></span> 
+</p>
+<p style="line-height:3em;">
+	<span microsoft="" yahei";="" font-size:="" 16px;"="" yahei";"="" style="font-family: "><span style="font-size:24px;font-family:Microsoft YaHei;">&nbsp; &nbsp; &nbsp;为客户服务是我们的天职，我们会将服务进行到底！</span></span> 
+</p>		</div>
+	</div>
+</div> 
+<!-- 模块 end --><div class="m-wg m-mod20 m-mod20-blue  " id="visualmodule_27" style='width:337px;height:257px;' data-wow-duration=3s data-wow-delay=1>
+		<style type='text/css' class='m-wg-hd-style'>#visualmodule_27 .m-wg-hd h2{font-family:inherit;}</style>	<div class="m-wg-hd">
+		<h2>网站公告</h2>
+			</div>
+			<div class="m-wg-ct">
+		<!-- 列表start -->
+		<div class="m-theme2">
+				<ul>
+															<li class='noline'>
+                    <a href="noticesdetail_153670.html" target="_blank">新增1000T注塑机一台</a>
+						<span class="time">2019-08-03</span>
+					</li>
+															<li>
+                    <a href="noticesdetail_127623.html" target="_blank">专业模具设计制作</a>
+						<span class="time">2018-11-03</span>
+					</li>
+															<li>
+                    <a href="noticesdetail_90082.html" target="_blank">网站上线了！欢迎大家浏览</a>
+						<span class="time">2018-03-02</span>
+					</li>
+															<li>
+                    <a href="noticesdetail_90083.html" target="_blank">网站全新上线，带给您最好的服务!</a>
+						<span class="time">2018-03-02</span>
+					</li>
+									</ul>
+			<div class="clearing"></div>
+		</div>
+		<!-- 列表end -->
+	</div>
+</div>
+
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_32" style='width:1000px;height:461px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+		<style type='text/css' class='m-wg-ct-style'>#visualmodule_32 .m-wg-ct{font-family:inherit;background-repeat:repeat;}</style>	<div class="m-wg-ct">
+		<div class='m-theme28'><style>
+#visualmodule_32 .m-wg-ct{
+               position: absolute;
+    width: 100%;
+    left: 0;
+    height:460px;
+    background-color: #0b73b8;
+    z-index: -100;
+            }
+	</style>
+<div>
+	<div class="Ttitle2" style="position:relative;width:100%;height:78px;padding:4px 0px;margin:0 auto;color:#fff;font-size:30px;line-height:78px;text-align:center;">
+		产品展示 <span>products</span>
+	</div>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- start -->
+<div class="m-wg m-mod10 m-mod10-default  " id="visualmodule_29" style='width:989.54546px;height:318.54546px;float:left;border-style:solid;border-width:3px;border-color:#0b73b8;margin-left:10px;margin-right:0px;margin-top:-390px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-hd">
+		<h2>产品</h2>
+			</div>
+		<style type='text/css' class='m-wg-ct-style'>#visualmodule_29 .m-wg-ct{font-family:inherit;}</style>	<div class="m-wg-ct">
+		<!-- 图片栏目 -->
+		<div class="picMarquee-left">
+		<div class="m-theme205">
+			<div class="clearing">&nbsp;</div>
+			
+			<ul  class="picList">
+						</ul>
+			
+			<div class="clearing">&nbsp;</div>
+		</div>
+		</div>
+		
+		<!-- 图片栏目 end -->
+		<script type="text/javascript">
+		$(function(){
+			$('.m-theme205-list').hover(function(){
+				$(this).find($('.m-theme205-img')).css('border','2px solid #ee5c5c');
+				$(this).find($('.m-theme205-title a')).css('color',"#ee5c5c");
+			},function(){
+				$('.m-theme205-img').css('border','');
+				$(this).find($('.m-theme205-title a')).css('color',"");
+			})
+			
+			jQuery("#visualmodule_29 .picMarquee-left").slide({mainCell:".m-theme205 ul",autoPlay:true,effect:"leftMarquee",vis:0,interTime:50});
+			
+		})
+		</script>
+	</div>
+	
+</div>
+
+<!-- end --><!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_33" style='width:449px;height:335px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><div style="width:364px;height:210px;padding-left:34px;padding-top:20px;border:2px solid #0082d0;margin-top:10px;">
+	<div style="float:left;color:#333333;font-size:30px;line-height:52px;font-weight:bold;">
+		关于我们&nbsp;
+	</div>
+	<div style="float:left;color:#006cae;font-size:30px;line-height:58px;font-family:arial;text-transform:uppercase;font-weight:normal;">
+		about <span>us</span> 
+	</div>
+</div>
+<div style="left:0px;top:94px;width:450px;height:200px;padding-left:34px;margin-top:-200px;">
+	<img class='lazyload' data-original="http://cdn063.yun-img.com/static/upload/a00671t/visualtoolkit/20170707170740_33458.jpg" style="display: inline;width: 400px;" /> 
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_34" style='width:540px;height:338px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><div style="position:absolute;z-index:10;width:230px;height:318px;border:2px solid #0082d0;margin-left:300px;margin-top:-20px;">
+</div>
+<div style="position:relative;z-index:12;width:470px;height:230px;padding-top:20px;padding-bottom:20px;margin-top:10px;color:#666666;font-size:14px;line-height:34px;overflow:hidden;background:#ffffff;">
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span style="font-family:Microsoft YaHei;font-size:14px;">上海铭瑞模具有限公司成立于</span><span lang="EN-US" style="font-family:Microsoft YaHei;font-size:14px;">2002</span><span style="font-family:Microsoft YaHei;font-size:14px;">年，座落于国际大都市</span><span lang="EN-US" style="font-family:Microsoft YaHei;font-size:14px;">---</span><span style="font-family:Microsoft YaHei;font-size:14px;">上海，公司将为您提供优质的模具设计，模具制造，注塑加工，塑胶模具加工等一系列服务。</span><span lang="EN-US"><o:p></o:p></span> 
+	</p>
+<span style="font-family:Microsoft YaHei;font-size:14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;目前，上海铭瑞模具有限公司拥有国内同行先进的设备和雄厚的技术力量： </span><span lang="EN-US" style="font-family:Microsoft YaHei;font-size:14px;">CNC</span><span style="font-family:Microsoft YaHei;font-size:14px;">数控铣床（</span><span lang="EN-US" style="font-family:Microsoft YaHei;font-size:14px;">1350*650*550</span><span style="font-family:Microsoft YaHei;font-size:14px;">）、精雕机、火花机、合模机、翻模机、铣床、磨床、线切割、车床、钻床等设备齐全......</span><a href="about.jsp" title="关于我们" class="comMore" style="display:block;width:154px;height:34px;border:1px solid #0082d0;margin:5px auto 0px auto;color:#ffffff;font-size:16px;line-height:34px;text-align:center;font-weight:bold;background:#0082d0;">查看详情 &gt;&gt;</a>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_40" style='width:998px;height:47px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:10px;margin-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><div style="width:242px;margin:0 auto;color:#0082d0;font-size:30px;line-height:40px;text-align:center;">
+	公司风采 <span>Co.</span> 
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_36" style='width:996px;height:316px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:0px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class="m-theme5 m-theme8">
+			<div class="bd">
+				<ul>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173578.html" target="_blank">
+							
+						<img src="http://cdn063.yun-img.com/static/upload/shmrmjsj/album/20180312091650_49254.jpg" alt="1300T注塑机"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173578.html" target="_blank">
+							
+						1300T注塑机</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173576.html" target="_blank">
+							
+						<img src="http://cdn065.yun-img.com/static/upload/shmrmjsj/album/20180312091408_54602.jpg" alt="数控CNC"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173576.html" target="_blank">
+							
+						数控CNC</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173579.html" target="_blank">
+							
+						<img src="http://cdn047.yun-img.com/static/upload/shmrmjsj/album/20180312091723_25593.jpg" alt="650T注塑机"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173579.html" target="_blank">
+							
+						650T注塑机</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173580.html" target="_blank">
+							
+						<img src="http://cdn057.yun-img.com/static/upload/shmrmjsj/album/20180312091811_86657.jpg" alt="注塑机"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173580.html" target="_blank">
+							
+						注塑机</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173581.html" target="_blank">
+							
+						<img src="http://cdn043.yun-img.com/static/upload/shmrmjsj/album/20180312091841_65379.jpg" alt="注塑机"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173581.html" target="_blank">
+							
+						注塑机</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173575.html" target="_blank">
+							
+						<img src="http://cdn045.yun-img.com/static/upload/shmrmjsj/album/20180312091315_83825.jpg" alt="铣床"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173575.html" target="_blank">
+							
+						铣床</a></div>
+					</div>
+					</li>
+										<li>
+										<div class="m-theme8-list">
+						<div class="m-theme8-img">
+													<a href="albumdetail_173577.html" target="_blank">
+							
+						<img src="http://cdn053.yun-img.com/static/upload/shmrmjsj/album/20180312091441_67698.jpg" alt="磨床"></a></div>
+						<div class="m-theme8-title">
+													<a href="albumdetail_173577.html" target="_blank">
+							
+						磨床</a></div>
+					</div>
+					</li>
+					
+				</ul>
+			</div>
+			<div class="hd">
+				<a class="next"></a>
+				<ul></ul>
+				<a class="prev"></a>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function RunScrollvisualmodule_36(){
+			var number = 0;
+			$("#visualmodule_36 ul li").each(function(i){
+				if ($(this).prev().length >0){
+					if($(this).offset().left < $(this).prev().offset().left){
+						number = i;
+						return false;
+					}
+				}
+			});
+			if(number==0){
+				number = $("#visualmodule_36 ul li").length-1;
+			}
+			jQuery("#visualmodule_36 .m-theme5").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"leftLoop",autoPlay:true,vis:number,trigger:"click"});
+		}
+		RunScrollvisualmodule_36();
+	</script>
+</div>
+<!-- 模块 end  duangou--><!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_41" style='width:993px;height:453px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><style>
+#visualmodule_41 .m-wg-ct{
+               position: absolute;
+    width: 100%;
+    left: 0;
+    height:400px;
+    background-color: #efefef;
+    z-index: -100;
+            }
+	</style>
+<div>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_51" style='width:466.181818px;height:260.181818px;float:left;border-style:solid;border-width:1px;border-color:#d9d9d9;margin-left:530px;margin-right:0px;margin-top:-355px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><div style="line-height:40px;font-size:16px;padding-left:20px;">
+	<p>
+		<span> </span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">联系人：翁先生</span><span></span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">手机：</span><span style="font-family:Microsoft YaHei;">18016406006&nbsp;&nbsp;&nbsp; </span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">电话：</span><span style="font-family:Microsoft YaHei;">021-59512559</span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">传真：</span><span style="font-family:Microsoft YaHei;">021-39529033</span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">邮箱：</span><span style="font-family:Microsoft YaHei;">zlb52825@163.com</span> 
+	</p>
+	<p align="left" style="text-align:left;text-indent:21.0pt;">
+		<span style="font-family:Microsoft YaHei;">公司地址：上海市嘉定区马陆镇立新路</span><span style="font-family:Microsoft YaHei;">8</span><span style="font-family:Microsoft YaHei;">号</span> 
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<span></span><span></span> 
+	</p>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_46" style='width:467px;height:67px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:530px;margin-right:0px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;margin-top:-450px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><style>
+.nnMore a {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 80px;
+    height: 78px;
+    color: #666666;
+    font-size: 14px;
+    line-height: 78px;
+    text-align: right;
+}
+</style>
+<div style="position:relative;width:100%;height:78px;margin:0 auto;color:#333333;font-size:30px;line-height:78px;text-align:left;background-color:#efefef;">
+	联系我们 <span style="color:#006cae;text-transform:uppercase;">CONTACT</span>  US
+	<div class="nnMore">
+		<a href="http://www.shmrmjsj.com/index.htm#" title="新闻资讯">更多 &gt;&gt;</a> 
+	</div>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_47" style='width:488px;height:67px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;margin-top:-450px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><style>
+.nnMore a {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 80px;
+    height: 78px;
+    color: #666666;
+    font-size: 14px;
+    line-height: 78px;
+    text-align: right;
+}
+</style>
+<div style="position:relative;width:100%;height:78px;margin:0 auto;color:#333333;font-size:30px;line-height:78px;text-align:left;background-color: #efefef;">
+	新闻资讯 <span style="color:#006cae;text-transform:uppercase;">news</span> 
+	<div class="nnMore">
+		<a href="http://www.shmrmjsj.com/news.htm" title="新闻资讯">更多 &gt;&gt;</a> 
+	</div>
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<div class="m-wg m-default m-default-default  " id="visualmodule_49" style='width:488px;height:313px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:10px;margin-right:0px;margin-top:-375px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+		<style type='text/css' class='m-wg-ct-style'>#visualmodule_49 .m-wg-ct{font-family:inherit;background-color:#efefef;}</style>	<div class="m-wg-ct">
+		<!-- 列表start -->
+		<div class="m-theme158">
+				<ul>
+									</ul>
+			<div class="clearing"></div>
+		</div>
+		<!-- 列表end -->
+	</div>
+</div><!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default  " id="visualmodule_53" style='width:38px;height:22px;float:left;border-style:none;border-width:0px;border-color:#333333;margin-left:590px;margin-right:0px;margin-top:-375px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;' data-wow-duration=3s data-wow-delay=1>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><div style="    background-color: #efefef;">
+<img class='lazyload' data-original="http://cdn057.yun-img.com/static/upload/a00671t/visualtoolkit/20170711104046_18314.jpg" alt="" />
+</div></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+<div class='g-main-clear' style='clear:both'></div>
+</div>
+<!-- 拖拽980 -->
+<!-- 脚部 -->
+<footer class="g-ft g-ft-edit">
+	<!-- 脚部980 -->
+	<div class="g-ft-inner">
+		<!-- 脚部自定义模块 -->
+				<div class="m-ft-foothtml" >
+			<div id="set_foothtml"><br />
+<table style="width:860px;" cellpadding="2" cellspacing="0" class="ke-zeroborder">
+	<tbody>
+		<tr>
+			<td style="width:280px;">
+				<img src="http://cdn055.yun-img.com/static/upload/shmrmjsj/custom/20180306154129_14935.jpg" alt="" /><br />
+			</td>
+			<td style="width:500px;">
+				<span style="font-family:'Microsoft YaHei';font-size:12px;color:#6e6e6e;line-height:30px;"><a href="about.jsp">关于我们</a>｜<a href="product.jsp">产品展示</a>｜<a href="message.html">在线留言</a>｜<a href="/ contact.html" =""="">联系我们</a><br />
+				<p>
+					<span style="font-family:'Microsoft YaHei';font-size:12px;color:#333333;line-height:30px;">联系电话：021-59512559、18016406006 传真：021-39529033</span> 
+				</p>
+				<p>
+					<span style="font-family:'Microsoft YaHei';font-size:12px;color:#333333;line-height:30px;">公司官方邮箱：zlb52825@163.com 邮政编码：201822</span> 
+				</p>
+				<p>
+					<span style="font-family:'Microsoft YaHei';font-size:12px;color:#6e6e6e;line-height:30px;"><span style="color:#333333;">地址：上海市嘉定区立新路8号&nbsp;</span>&nbsp; &nbsp; &nbsp;<a href="http://www.shmrmjsj.com/yunadmin/login.php" target="_blank">后台管理</a>&nbsp;</span> 
+				</p>
+				<p>
+					<span style="font-family:'Microsoft YaHei';font-size:12px;color:#6e6e6e;line-height:30px;"><span style="color:#434343;font-family:Microsoft YaHei;text-align:-webkit-center;text-indent:5px;white-space:normal;"><span style="color:#333333;">copyright &copy; 2019 上海铭瑞模具有限公司&nbsp; &nbsp;&nbsp;</span><a href="http://www.beian.miit.gov.cn/" target="_blank"><span style="color:#333333;">&nbsp;沪ICP备18014761号-1</span></a></span><br />
+</span> 
+				</p>
+</span> 
+			</td>
+			<td style="width:80px;">
+				<p style="text-align:center;">
+					<img src="http://cdn045.yun-img.com/static/upload/shmrmjsj/custom/20180306154715_27738.jpg" alt="" /> 
+				</p>
+				<p style="text-align:center;">
+					<span style="font-family:'Microsoft YaHei';font-size:12px;color:#6e6e6e;line-height:30px;">手机版官网</span> 
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br /></div>
+		</div>
+				<!-- 脚部自定义模块 end -->
+		<!-- 脚部菜单 -->
+				<!-- 脚部菜单 end -->
+		<!-- 脚部信息 -->
+		<div class="m-ft-text">
+																				</div>
+		<!-- 脚部信息 end -->
+	</div>
+	<!-- 脚部980 end -->
+</footer>
+<!-- 脚部 end -->
+</div>
+<!-- 拖拽JS -->
+<!-- 脚部功能插件 -->
+<!-- 底部插件注入区 -->
+<center></center>
+
+<!--用户协议-->
+<style>
+    .AgreementBg {
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.3);
+        z-index: 99999999;
+    }
+
+    .AgreementDialog {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 700px;
+        height: 640px;
+        background: #fff;
+        padding: 30px 0;
+        border-radius: 20px;
+    }
+
+    .AgreemenCon {
+
+        width: 100%;
+        height: 90%;
+        overflow-y: auto;
+    }
+
+    .AgreementBtn {
+        position: absolute;
+        bottom: 0px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 350px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 14px;
+        background: #f43333;
+        color: #FFF;
+        margin: 2% auto 0;
+        cursor: pointer;
+    }
+
+    .AgreementphDialog {
+        position: absolute;
+        left: 6%;
+        top: 6%;
+        width: 88%;
+        height: 80%;
+        background: #fff;
+        padding: 30px 0;
+        border-radius: 20px;
+    }
+
+    .AgreemenphCon {
+        width: 100%;
+        height: 90%;
+        overflow-y: auto;
+    }
+
+    .AgreementphBtn {
+        width: 80%;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 14px;
+        background: #f43333;
+        color: #FFF;
+        margin: 20px auto 10px;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+
+</script>
+<script>
+    $('.AgreementBtn').on('click', function () {
+        $('.AgreementBg').hide();
+        sessionStorage.getItem("protocol", 1)
+        sessionStorage['protocol'] = '1';
+    });
+    if (sessionStorage['protocol'] != null) {
+        $('.AgreementBg').hide();
+
+    } else {
+        $('.AgreementBg').show();
+
+    }
+
+
+</script>
+
+<bgsound src="http://www.shmrmjsj.com/index.htm" loop="-1">
+                                <div id="set_trigger_login"></div></body>
+</html>

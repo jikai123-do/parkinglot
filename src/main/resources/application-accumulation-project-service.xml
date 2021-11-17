@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:context="http://www.springframework.org/schema/context"
+	   xmlns:aop="http://www.springframework.org/schema/aop"
+	   xmlns:tx="http://www.springframework.org/schema/tx"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+						http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+						http://www.springframework.org/schema/context
+						http://www.springframework.org/schema/context/spring-context-4.3.xsd
+						http://www.springframework.org/schema/aop
+						http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
+						http://www.springframework.org/schema/tx
+						http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+    <context:component-scan base-package="parking"></context:component-scan>
+    <context:component-scan base-package="parking.service"/>
+
+
+<!--    <import resource="classpath:application-loan-project-service.xml"/>-->
+
+
+    <bean id="newService"
+          class="parking.service.impl.NewsServiceImpl">
+    </bean>
+
+    <bean id="noticeService"
+          class="parking.service.impl.NoticeServiceImpl">
+    </bean>
+
+    <bean id="parkingNewService"
+          class="parking.service.impl.ParkingNewServiceImpl">
+    </bean>
+
+
+    <bean id="userService"
+          class="parking.service.impl.UserServiceImpl">
+    </bean>
+
+
+</beans>

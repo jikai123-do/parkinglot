@@ -1,0 +1,389 @@
+﻿@charset "utf-8";
+/* 全局样式 */
+body,ul,ol,dl,dd,dt,li,a,h1,h2,h3,h4,h5,h6,table,tr,td,th,textarea,input,button,select,p{ padding:0; margin:0;}
+ul,li{ list-style:none;}
+img{ border:0;}
+a,u{ color:#666; text-decoration:none;}
+body{ padding:0; margin:0; font-size:14px; background:#fff; font-family:"微软雅黑"}
+ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,p { padding:0; margin:0; list-style:none}
+ul{list-style:none;}
+img{border:0px;}
+.ftion ul li a:hover{border:1px solid #fff; color:#fff}
+.getout li a:hover{color:#F93; text-decoration:underline}
+.lg ul li a:hover{background:#03a9f5}
+
+/*导航开始样式*/
+.nav{width:100%; height:70px; background:#03a9f5; float:left}
+.menu{width:1190px; height:70px; margin:0 auto}
+.menu ul li{width:170px; height:70px; float:left; text-align:center;}
+.menu{width:1190px; height:70px; margin:0 auto}
+.menu ul li a{display:block; width:160px; height:60px;line-height:50px; font-size:18px; color:#fff; text-decoration:none;margin:10px 5px 0px 5px;}
+.menu ul li a.tab{background:#fff; color:#03a9f5; border-top-left-radius:15px; border-top-right-radius:15px}
+.menu ul li span{ display:block; float:left;width:1px; height:20px; background:#66d0ff; margin:25px 0px 25px 0px}
+
+/*功能栏样式*/
+.function{width:100%; height:auto; float:left; margin-top:20px}
+.ft{width:1190px; height:auto; margin:0 auto}
+#main{width:802px;height:368px;overflow:hidden;position:relative; float:left}
+#main .banner{width:802px;height:368px;box-shadow:0px 0px 5px #ddd;margin:0px auto;overflow:hidden;position:relative;}
+#main .banner img{width:802px;height:368px;position:absolute;left:0px;top:0px;}
+#main .page{width:132px;height:22px;position:absolute;bottom:15px;right:50px;}
+.ftion{width:368px; height:368px; float:right;}
+.ftion ul{width:100%; height:116px;}
+.ftion ul li{width:116px; height:116px; float:left}
+.ftion ul li a{ display:block; width:100%; height:100%; text-align:center; text-decoration:none; font-size:16px; color:#f0f0f0}
+.icon1{background:#10abe4}
+.icon2{background:#ccc; margin:0px 10px 0px 10px}
+.icon3{background:#ffb300}
+.icon4{background:#fb5353}
+.icon5{background:#e38afd; margin:0px 10px 0px 10px}
+.icon6{background:#319ab1}
+.icon7{background:#ff9600}
+.icon8{background:#b6b9ff; margin:0px 10px 0px 10px}
+.icon9{background:#5ca40f}
+.ftion1{margin:10px 0px 10px 0px}
+
+/*泊位分布图样式*/
+.map{width:100%; height:auto; float:left; margin-top:20px}
+.mp{width:1190px; height:auto; margin:0 auto}
+.mp h3{width:100%; height:32px; line-height:32px; color:#03a9f5; font-size:16px;}
+.mpt{width:1190px; height:320px; margin-top:10px; overflow:hidden; position:relative}
+.map_li{width:215px; height:276px; background:#fff; background-color:rgba(255,255,255,0.8); position:absolute; right:20px; top:30px; border:1px solid #fefefe}
+.map_li h1{text-align:center}
+.map_li ul{height:210px;overflow-y:auto}
+.map_li ul li{width:95%; height:30px; line-height:30px; padding:0 5px 0 5px}
+.map_li ul li img{margin-right:2px}
+.map_li ul li a{text-decoration:none; font-size:16px; color:#333}
+.map_li ul li a span{float:right; padding-right:5px}
+.mpt p{display:block; width:22px; height:26px; position:absolute; top:50px; left:500px}
+.mpt p.map_icon1{left:450px; top:100px;}
+.mpt p.map_icon2{left:550px; top:200px;}
+.mpt p.map_icon3{left:600px; top:50px;}
+
+/*新闻样式*/
+.news{width:100%; height:auto; margin-top:20px; float:left}
+.new{width:1190px; height:auto; margin:0 auto}
+.import_news{ width:500px; height:373px; float:left}
+.import_news h3{width:100%; height:32px; line-height:32px; color:#03a9f5; font-size:16px; border-bottom:2px solid #03a9f5}
+.news_jpg{width:100%; height:329px; margin-top:2%; overflow:hidden}
+.jpg{display:block; width:228px; height:329px; float:left; overflow:hidden; position:relative; color:#fff; text-align:center;}
+.jpg img{width:100%;height:100%;}
+.jpg span{width:100%; height:auto; position:absolute; bottom:0; left:0; background:#666;background-color:rgba(0,0,0,0.5); font-size:12px}
+.news_jpg ul{width:262px; height:100%;float:right;}
+.news_jpg ul li a{display:block; width:250px; height:32px; line-height:32px; text-decoration:none; color:#666; font-size:14px; padding-left:12px; border-bottom:1px dashed #999}
+.news_jpg ul li a img {float:left;width:100%;height:auto;}
+.news_jpg ul li a b{font-weight:normal; width:160px; height:32px; overflow:hidden; display:block; float:left}
+.news_jpg ul li a span{float:right; color:#2eaad2;}
+.news_jpg ul li a.more{background:none; border-bottom:none;}
+.news_jpg ul li a.more span{color:#2eaad2}
+/*信息公告*/
+.importer_news{width:670px; float:right; height:373px}
+.report{width:330px; height:373px; float:left}
+.report h3{color:#03a9f5; border-bottom:#03a9f5 2px solid; font-size:16px;height:32px; line-height:32px; }
+.report dl{width:330px; height:84px; overflow:hidden; border-bottom:#666 dashed 1px; margin-top:5px; padding-bottom:10px}
+.report dl p{width:114px; height:84px; float:left}
+.report dl p img{width:100%; height:auto;}
+.report dl dt{width:210px;float:left; padding-left:6px; font-size:14px; font-weight:bold; color:#333}
+.report dl dd{width:210px; float:left; padding-left:6px; text-indent:24px}
+.report dl dd a{text-decoration:none; color:#666}
+.report dl.rdmore{width:330px; height:32px; border-bottom:none;  padding-bottom:0}
+.report dl.rdmore a{color:#2eaad2; float:right;margin-top:8px}
+/*政策法规*/
+.rule{width:320px; height:373px; float:right}
+.rule h3{color:#03a9f5; border-bottom:#03a9f5 2px solid; font-size:16px;height:32px; line-height:32px; }
+.rule dl{margin-top:5px; padding-bottom:15px; height:54px}
+.rule dl dt{width:100%; font-size:14px; font-weight:bold; color:#333}
+.rule dl dd a{ display:block;width:100%; color:#666; text-indent:24px;height:36px;overflow:hidden}
+.rule dl.rdmore{padding-bottom:0; height:32px}
+.rule dl.rdmore a{ float:right;color:#2eaad2;margin-top:10px}
+/*友情链接*/
+.link{width:100%; height:auto; float:left; margin-top:20px}
+.lk{width:1190px; height:auto; margin:0 auto}
+.lk h3{width:100%; height:32px; line-height:32px; color:#03a9f5; font-size:16px; border-bottom:2px solid #03a9f5}
+.lk ul{width:96%; height:auto;margin:10px 2% 10px 2%}
+.lk ul a{margin:0 9px 0 9px; display:block; float:left}
+/*首页界面结束*/
+
+/*登录界面*/
+.login{width:100%; height:auto; margin-top:20px; float:left}
+.land{width:1190px; height:436px; margin:0 auto}
+.lg{width:321px; height:367px; border:1px solid #ebebeb; float:right; margin:10px 20px 0 0; background:#fff; background-color:rgba(255,255,255,0.8);}
+.lg h3{width:50%; height:40px; line-height:40px; text-align:center; font-size:18px; color:#fff; float:left}
+.lg h3 a{width:100%; height:100%; display:block; color:#fff; background:#03a9f5;}
+.lg h3 a.lgh{background:#ccc;}
+.lg ul{width:300px; height: auto;padding:20px 0 0 20px; position:relative; float:left}
+.tips{position:absolute; left:75px; top:15px; height:20px; line-height:20px; width:220px; color:#ff6c00}
+.tips img{float:left; padding-right:5px}
+.lg ul li{width:280px; height:32px; line-height:32px; font-size:14px; color:#666; margin-top:20px}
+.lg ul li input{width:218px; height:28px; line-height:28px; background:none; border:1px solid #ebebeb}
+.lg ul li span{ text-align:right;}
+.lg ul li a{color:#fff; border:1px solid #e7e7e7; height:28px; display:block; width:100px; float:right; line-height:28px; margin-top:2px; background:#98dfff}
+.lg ul li span.code{ display:block;width:76px; height:32px; float:right}
+.lg ul p{margin:10px 0 0 52px; height:20px}
+.lg ul li input.bt{width:100%; height:32px; background:#03a9f5; color:#fff; font-size:16px; border:none}
+.lg ul p.rember{margin:10px 0 0 0; width:280px}
+.lg ul p a{color:#F93}
+.lg ul p a.zc{float:right; color:#03a9f5; font-weight:bold}
+.lg ul p b{float:right; font-weight:normal}
+.lg ul p input{margin-right:5px; float:left; margin-left:5px}
+.lg ul p span{font-size:12px; float:left}
+.lg ul li input.GetValNum{width:100px;float:right; height:32px; background:#e2f3ff}
+.lg ul li input.GetValNum:hover{color:#fff; background:#03a9f5}
+/*登录界面结束*/
+
+/*注册界面*/
+.sign{width:100%; height:auto; float: left; margin-top:20px}
+.regist{width:1190px; height: auto; margin:0 auto; border:1px solid #ebebeb}
+.regist h3{width:100%; height:32px; line-height:32px;text-align:center; font-size:16px; font-weight:normal; background:#03a9f5; color:#fff;}
+.resgit{width:70%; height:auto; margin:50px 15% 0 15%;}
+.rsgline{width:465px; height:2px; background:#CCC; margin:0 auto; position:relative}
+.rsgline ul{position:absolute; top:-15px; left:-40px; width:88px; text-align:center}
+.rsgline ul span{width:88px; height:auto; display:block;color:#03a9f5}
+.rsgline ul.rgd1{left:190px}
+.rsgline ul.rgd2{left:90%}
+/*.rsgline ul span.rgsd{color:#03a9f5}*/
+.signup{width:100%; height:auto; margin:64px 0 20px 90px;}
+.signup p{padding-left:150px;}
+.signup p.aggrement{padding:10px 0 0 96px}
+.signup p.aggrement a{text-decoration:none}
+.signup p span{color:red}
+.signup p a{color:#03a9f5;}
+.signup ul li{width:100%; height:32px; line-height:32px; margin-top:20px; overflow:hidden}
+.signup ul li span{ display:block; float:left;width:100px; height:auto; text-align:right}
+.signup ul li span i{color:red; padding-right:5px}
+.signup ul li input{width:430px; border:1px solid #ccc; background:none; height:28px; line-height:28px; float:left}
+.signup ul li input.yz{width:330px}
+.signup ul li input.GetValNum{ width:100px; height:32px; float:left; text-decoration:none; background:#49b8ea; color:#FFF}
+.signup ul li b{color:#F93; font-weight:normal; padding-left:5px}
+.signup ul li b img{padding-top:5px; float:left}
+.signup ul li input.resign_bt{margin-left:100px; background:#03a9f5; color:#FFF; font-size:16px; height:40px; line-height:40px}
+/*注册界面结束*/
+
+/*停车服务页面*/
+.service{width:100%; height:auto; float:left; margin-top:20px;}
+.serve{ width:1190px; height:auto; margin:0 auto}
+.left{width:254px; height:auto; float:left; border-radius:10px; border:1px solid #ccc}
+.left ul li{width:100%; height:auto; line-height:50px;}
+.left ul li a{background:#299ded; display:block; width:218px; height:46px; margin:0px 18px 2px 18px; font-size:16px; text-align:center; color:#fff}
+.left ul li a span{ display:block; width:11px; height:10px; float:right; margin:19px 20px 16px 0}
+.menu2{width:218px; height:auto;margin:0px 18px 0px 18px;}
+.menu2 p{width:218px; height:46px;border-bottom:1px solid #ccc;}
+.menu2 p a{width:108px; height:32px; display:block; text-align:center; line-height:32px; margin:7px 55px 7px 55px;}
+.menu2 p a.tab2{color:#299ded}
+.right{width:890px; float:right; height:auto;}
+.m_ip{width:888px; height:50px; line-height:50px; border:1px solid #ccc}
+.m_ip ul li{height:50px; line-height:50px; padding-left:25px; margin-left:20px}
+.my{width:888px; border:1px solid #ccc; margin-top:10px; border-radius:10px}
+.my h3{width:100%; height:32px; line-height:32px; text-align:center; font-size:18px; color:#299ded; margin-top:10px} 
+.my P{width:100%; height:auto; text-align:center;}
+
+.my P input.phnumb{width:200px;height:32px; float:left; margin:5px 0 5px 20px}
+.my P input.valueclick{width:80px;height:36px; border:none; background:#03a9f5; color:#fff; margin-left:5px;float:left;margin:5px 0 5px 5px}
+
+
+
+
+
+.name{width:100%; height:101px; margin-top:20px}
+.name p{width:300px; height:100%; padding-left:150px; float:left}
+.name p a{float:left; display:block; width:101px; height:101px; border:1px solid #03a9f5;-webkit-box-shadow: 0 0 10px #03a9f5; border-radius:4px}
+.name p a img{width:100%;max-height:100%}
+.name p b{display:block; width:170px; height:36px; line-height:36px; color:#299ded;padding-left:120px}
+.name dl{width:250px; height:100%; float:right; padding-left:100px; overflow:hidden; margin-right:50px;}
+.name dl dt{height:32px; line-height:32px; color:#03a9f5}
+.name p b span{color:red; font-size:16px}
+.service_icon{width:100%; height:140px; margin:30px 0 30px 0}
+.service_icon a{float:left; display:block; margin-left:75px}
+/*停车服务页面结束*/
+
+/*信息公开页面*/
+.openreport{width:100%; height:auto; float:left; margin-top:20px}
+.brands{position: relative;margin: 9px auto 0 ;width: 1190px; height: 50px;z-index:1000;zoom: 1;}
+.br-nav .mt{height: 63px; line-height: 63px;border-bottom: 1px solid #ddd;}
+.mt h2{text-align: center;font-weight: 700; font-size: 18px;color: #fff;height: 35px; line-height: 63px;}
+.mc .item{height: 48px; line-height: 48px; border-bottom: 1px solid #ddd;}
+.mc .current1{background-color: #fff;}
+.item a{display: block;color: #fff;}
+.item:hover{background:#fff;}
+
+
+.item a:hover{color:#03a9f5;font-size:16px;}
+.item .lab{ width: 100%;font-weight: 700;font-size: 14px; float: left;text-align:center;}
+.item .lab span{padding-left:5px}
+.item .ch{ font-weight: 700;font-size: 12px;float: left;width: 113px;padding-left:5px;text-align: left;}
+.item .lab a,.item{color: #fff;}
+
+
+
+.item-down{width: 930px;min-height:500px; background-color: #fff; border:1px solid #efefef; display:none}
+.item-down h3{width:98%; height:32px; color:#03a9f5; border-bottom:1px solid #03a9f5; line-height:32px; padding-left:2%; float:left}
+
+
+
+.repmore a{ font-family: "微软雅黑";font-size: 12px;color: #505050; float: left;display: block;width: 98%; height: 38px; line-height: 38px; padding-left:2%; border-bottom:1px dashed #999}
+.repmore a span{float:right; padding-right:20px}
+.page{width:100%; height:32px; float:left}
+.page p{width:100%; height:32px; color:#666; line-height:32px}
+.page p span{margin-right:20px; float:left}
+.page p span font{color:#03a9f5}
+.page p span a{width:50px; height:32px; float:left; line-height:32px; border-bottom:none}
+.about{width:100%; height:auto;}
+.about h3{width:100%; height:32px; line-height:32px; color:red; text-align:center; border-bottom:none}
+.about span{display:block; width:100%; height:14px; font-size:14px; line-height:14px; text-align:center; color:#666}
+.about p{width:98%; height:auto; line-height:20px;font-size:14px; color:#333; text-indent:24px; margin-top:10px; padding-left:2%}
+.br_right{width:963px; height:auto; float:right;}
+.brands-in{ position: relative;float:left;display:inline;width:963px;height:50px;overflow:hidden;background-color:#fff; float:right;}
+.brands-in ul{position:absolute;width: 963px;height:50px; background:#f5f5f5}
+
+.brands-in ul li a{display: block;width:auto;height:100%; line-height:50px;float:left; margin-right:5px}
+.banner1{ width:963px; height:359px; position: relative;overflow: hidden; float:right; background:#fff}
+.banner1 ul{position:absolute; left:0; top:0;}
+.banner1 ul li{width: 963px; height: 358px;cursor:pointer;background:#f5f5f5; border-top:1px solid #999}
+.banner1 ul li h3{width:98%; height:34px; font-size:16px; color:#03a9f5; line-height:34px; padding-left:2%}
+.banner1 ul li h3 span{font-size:26px;}
+/*信息公开主界面*/
+.imp_news{width:640px; height:304px; margin:10px 20px 10px 20px; float:left}
+.imp_news dl{width:100%; height:84px; padding:5px 0 10px 0; border-bottom:1px dashed #999; float:left}
+.imp_news dl p{width:114px; height:84px; float:left;}
+.imp_news dl p img{width:100%;height:100%;}
+.imp_news dl dt{width:520px;float:left; padding-left:6px;}
+.imp_news dl dt a{font-size:14px; font-weight:bold; color:#333}
+.imp_news dl dt span{float:right; font-size:12px; color:#999;}
+.imp_news dl dd{width:520px; float:left; padding-left:6px; text-indent:24px}
+.imp_img{width:236px; height:304px; margin:10px 20px 10px 0; float:right;}
+.imp_img a{display:block; width:100%; height:100%; no-repeat}
+.imp_news dl.rules dt{width:100%;}
+.imp_news dl.rules dd{width:100%}
+.item-down ul {background: #f5f5f5;height: 50px;}
+.item-down ul li a {display: block;width: auto;height: 100%;line-height: 50px;float: left;margin-right: 5px;}
+/*信息公开主界面结束*/
+
+/*详细信息界面*/
+.details{width:100%; height:auto; float:left; margin-top:20px}
+.detailnews{width:1190px; height:auto; margin:0 auto;}
+.detail{width:100%; height:auto; border:1px solid #03a9f5;min-height:500px}
+.detail h3{width:100%; height:40px; line-height:40px; text-align:center; color:#03a9f5}
+.detail p{width:96%; height:auto; margin:0 2% 0 2%; text-indent:28px; font-size:14px; margin-top:10px; line-height:26px}
+.detail p.time{text-align:center; color:#666; border-bottom:1px dashed #666; margin-top:0}
+.detail p img{margin-left:20px}
+
+.details1{width:100%; height:auto; float:left; margin-top:20px}
+.detailnews1{width:1190px; height:auto; margin:0 auto;}
+.detail1{width:100%; height:auto; border:1px solid #03a9f5;min-height:500px}
+.detail1 h3{width:100%; height:40px; line-height:40px; text-align:center; color:#03a9f5}
+.detail1 p{width:96%; height:auto; margin:0 2% 0 2%; text-indent:28px; font-size:14px; margin-top:10px; line-height:26px}
+.detail1 p.time{text-align:center; color:#666; border-bottom:1px dashed #666; margin-top:0}
+.detail1 p img{margin-left:20px}
+
+.detail dl{margin-bottom:15px}
+.detail dl dt{width:99%; height:26px; line-height:26px; font-size:16px; font-weight:500; color:#03a9f5; padding-left:1%}
+.detail dl dt span{color:red; font-size:14px; margin-left:50px}
+.detail dl dt b{float:right; font-weight:normal; margin-right:20px; color:#999}
+.detail dl dd{width:85%; padding-left:1.5%;  line-height:26px; color:#F93}
+.detail dl dd span{ color:#666}
+.detail p select{width:200px; margin-right:20px; height:25px}
+.detail p input{width:200px; height:25px; line-height:25px; margin-right:10px}
+.detail p input.btsh{width:100px; height:32px; line-height:none; background:#eeeeee; border:1px solid #dcf1ff}
+.detail p input.btsh:hover{background:#03a9f5; color:#fff}
+.detail h3{border-bottom:1px dashed #ccc}
+/*详细信息界面结束*/
+/*信息公开界面结束*/
+
+/*app下载*/
+.app{width:100%; height:auto;}
+/*app下载结束*/
+
+
+/*停车服务共同样式*/
+.recharge p a.my_1{background:#F30; color:#fff}
+/*当前续费*/
+.tablelist{ border-top:1px solid #ccc;border-bottom:1px solid #ccc; width:100%; clear:both; margin-bottom:20px}
+.tablelist th{height:34px; line-height:34px;text-align:center;border-right: dotted 1px #ccc;}
+.tablelist td{line-height:35px; border-right: dotted 1px #ccc; text-align:center; border-top:1px solid #ccc}
+.tablelist td a{color:#0498cf}
+.tablelink{color:#EB5409;}
+.tablelist tbody tr.odd{background:#FFF7EA;}
+.tablelist tbody tr:hover{background:#FFDCA9;}
+.tablelist tr.bill_search th{border-bottom:1px solid #ccc; border-right:1px dashed #fff; height:50px}
+.tablelist tr.bill_search th select{height:32px; line-height:32px;font-size:16px; width:200px}
+.tablelist tr.bill_search th input{display:block; width:80px; height:31px; background:#03a9f5; color:#fff;border:none}
+/*page*/
+.pagin{padding:0 12px; width:890px; height:30px;}
+.pagin ul{color:#666;font-style:normal; padding-left:35%}
+.pagin ul li{float:left}
+.pagin ul li span{margin:0 5px 0 5px;color:red}
+.pagin ul li.line{margin:0 10px 0 5px}
+/*.pagin .paginList{position:absolute;right:12px;top:0px;}
+.pagin .paginList li{float:left;}
+.pagin .paginList li a{float:left;width:31px;height:28px;border:1px solid #DDD; text-align:center;line-height:30px;color:#737373;}
+.paginList li a.current{color:#EB5409}
+.paginList li a.pagepre{height:28px; width:70px}
+.paginList li a.pagenxt{height:28px;width:70px}*/
+
+
+/*renew*/
+.renew{border:1px solid #60c7ff; background:#fff; width:320px; height:auto; position:absolute; left:30%; top:30%; display:none; z-index:99999}
+.renew ul li{height:32px; line-height:32px; text-align:left; padding-left:15px;}
+.renew ul li input{height:30px; background:none; border:1px solid #efefef; width:160px}
+.renew ul li input.rech{background:#fff; color:#03a9f5; height:32px}
+.renew ul li input.rech:hover{background:#03a9f5; color:#fff}
+.renew ul li a{display:block; width:80px; height:30px; line-height:30px; border:1px solid #60c7ff; text-align:center; float:right; margin-right:30px}
+.renew ul li a:hover{color:#fff; background:#03a9f5}
+.mask{margin:0;padding:0;border:none;width:100%;height:100%;background:#333;opacity:0.6;filter:alpha(opacity=60);z-index:9999;position:fixed;top:0;left:0;display:none;}
+
+
+.renew p{width:100%; height:36px; margin-top:15px}
+.renew p a{display:block; width:32px; height:32px; float:left; margin-left:15px; color:#333}
+/*当前续结束*/
+
+/*车牌绑定*/
+.recharge ul#bc li{text-align:left; width:90%; margin-left:10%}
+.cardlin{width:270px; height:180px; position:absolute; right:5px; top:0px; border:1px solid #efefef}
+.cardlin h1{width:100%; height:32px; line-height:32px; color:#fff; background:#03a9f5;font-size:14px; text-align:center; border-bottom:2px solid #03a9f5}
+.cardlin dl{width:100%; height:140px; overflow-y:auto;}
+.cardlin dl dt{widows:96%; margin:0 2% 0 2%; height:32px; line-height:32px; padding-left:5%; border-bottom:1px dashed #ccc}
+.cardlin dl dt a{margin-left:150px;}
+.cardlin dl dt a:hover{color:#03a9f5}
+/*车牌绑定结束*/
+
+/*问卷调查*/
+.qusetion{ border-top:1px solid #ccc; width:100%; clear:both; margin-bottom:20px}
+.qusetion th{height:34px; line-height:34px;text-align:left; border-bottom:1px solid #ccc; color:#03a9f5}
+.qusetion td{line-height:35px; text-align:left;border-bottom:1px solid #ccc;}
+.qusetion td input{ margin:0 5px 0 20px}
+/*问卷调查结束*/
+/*共有*/
+.ips ul li {width: 98%;height: 50px;line-height: 50px;padding-left: 25px;border-bottom: 1px solid #03a9f5;}
+ 
+ /*停车指南*/
+ .guide {width: 891px;height: auto;float: right;margin-top: 10px;overflow: hidden;position: relative;}
+.guide a {position: absolute;left: 350px;top: 449px;color: #2da6ec;text-decoration: underline;}
+.guide_left {width: 254px;height: auto;float: left;border-radius: 10px;}
+.guide_left ul li a {width: 100%;height: auto;display: block;text-align: center;margin-top: 20px;}
+.guide table{width:90%; height:auto; margin:10px auto; border:1px solid #03a9f5}
+.guide table th{font-size:18px; color:#03a9f5; line-height:32px;text-align:left; padding-left:15px}
+.guide table th span{display:block; width:100%; height:36px; line-height:36px; font-size:18px;}
+/*停车指南结束*/
+
+/*停车地图*/
+.lin_srch p span{display:block;width:100%; height:32px; line-height:32px; color:#03a9f5; font-size:10px; text-align:left; }
+.lin_srch p span a{border:none;padding:0 5px 0 5px}
+.lin_srch p span a:hover{background:#03a9f5; color:#fff}
+.info-title {color: white;font-size: 14px;background-color: #03a9f5;line-height: 26px;padding: 0px 0 0 6px;font-weight: lighter;letter-spacing: 1px;}
+.info-content {font: 12px Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial;padding: 4px;color: #666666;line-height: 23px;}
+.info-content img {float: left;margin: 3px;}
+.lin_srch {width: 897px;height: 50px;line-height: 50px;position: absolute;right: 0;top: 0;z-index: 100;background: #03a9f5;text-align: center;}
+.lin_srch p{position:absolute; height:auto;width:auto; background:#fff; top:45px; left:150px; z-index:9999; border:1px solid #03a9f5}
+.lin_srch input {width: 500px;height: 36px;font-size: 16px;text-indent: 6px;line-height: 36px;float: left;margin: 5px 10px 0 150px;}
+.lin_srch a {display: block;width: 80px;height: 36px;background: #fff;line-height: 36px;float: left;margin-top: 5px;border: 1px solid #d2edff;color: #333;}
+.lin_srch a:hover {background: #03a9f5;color: #fff;}
+.lin {width: 293px;height: 100%;border: 1px solid #c2e6ff;position: absolute;left: 0;top: 0;background: #fff;z-index: 100;}
+.lin h3 {font-size: 14px;color: #fff;background: #03a9f5;width: 100%;text-align: center;line-height: 49px;}
+.lin p {width: 100%;margin-top: 20px;padding-left: 10px;}
+.lin p select {width: 70%;font-size: 14px;height: 28px;}
+.lin table {width: 96%;margin: 5px auto;border: 1px solid #ccc;}
+.lin table th {width: 100%;height: 32px;line-height: 32px;text-align: left;}
+.lin table td {height: 30px;line-height: 30px;}
+.lin table td span {color: #00c05f;font-weight: 700;}
+.lin table:hover {background: #e1e1e1;}
+/*停车指南结束*/
