@@ -55,17 +55,12 @@
 
 
 
-
-
-
-
-
     <session-config>
         <session-timeout>1440</session-timeout>
     </session-config>
 
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
+        <welcome-file>/WEB-INF/views/index.html</welcome-file>
     </welcome-file-list>
 
 <!--    <jsp-config>-->
@@ -78,7 +73,7 @@
 
     <error-page>
         <error-code>404</error-code>
-        <location>/404.html</location>
+        <location>/WEB-INF/views/index.html</location>
     </error-page>
 
 
