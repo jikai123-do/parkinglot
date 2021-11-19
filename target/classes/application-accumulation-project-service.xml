@@ -12,8 +12,8 @@
 						http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
 						http://www.springframework.org/schema/tx
 						http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
-    <context:component-scan base-package="parking"></context:component-scan>
-    <context:component-scan base-package="parking.service"/>
+<!--    <context:component-scan base-package="parking"></context:component-scan>-->
+<!--    <context:component-scan base-package="/web/controller"/>-->
 
 
 <!--    <import resource="classpath:application-loan-project-service.xml"/>-->

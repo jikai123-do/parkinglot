@@ -60,7 +60,7 @@
     </session-config>
 
     <welcome-file-list>
-        <welcome-file>/WEB-INF/views/index.html</welcome-file>
+        <welcome-file>/WEB-INF/index.html</welcome-file>
     </welcome-file-list>
 
 <!--    <jsp-config>-->
@@ -73,7 +73,7 @@
 
     <error-page>
         <error-code>404</error-code>
-        <location>/WEB-INF/views/index.html</location>
+        <location>/WEB-INF/404.html</location>
     </error-page>
 
 

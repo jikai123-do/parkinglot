@@ -18,7 +18,6 @@
 
 	<context:component-scan base-package="parking.*" />
 
-
 	<mvc:annotation-driven conversion-service="conversionService">
 
 		<mvc:message-converters register-defaults="false">
@@ -73,13 +72,13 @@
 
 
 	<!-- 视图解析器 -->
-	<bean id="internalResourceViewResolver"
-		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+<!--	<bean id="internalResourceViewResolver"-->
+<!--		class="org.springframework.web.servlet.view.InternalResourceViewResolver">-->
 <!--		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>-->
-		<property name="prefix" value="/WEB-INF/views/" />
-<!--		<property name="order" value="2"/>-->
-		<property name="suffix" value=".html" />
-	</bean>
+<!--		<property name="prefix" value="/WEB-INF/" />-->
+<!--&lt;!&ndash;		<property name="order" value="2"/>&ndash;&gt;-->
+<!--		<property name="suffix" value=".html" />-->
+<!--	</bean>-->
 
 
 
