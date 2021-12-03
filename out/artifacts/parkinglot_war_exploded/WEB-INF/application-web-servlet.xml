@@ -18,6 +18,7 @@
 
 	<context:component-scan base-package="parking.*" />
 
+
 	<mvc:annotation-driven conversion-service="conversionService">
 
 		<mvc:message-converters register-defaults="false">
